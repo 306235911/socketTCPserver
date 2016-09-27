@@ -1,2 +1,2 @@
 # socketTCPserver
-socketTCPserver
+用于实现一个简单的聊天工具，但只有当一个人发言后另一个人的消息才能被看到
